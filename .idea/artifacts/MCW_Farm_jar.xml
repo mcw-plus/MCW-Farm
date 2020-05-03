@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MCW-Farm:jar">
+    <output-path>$USER_HOME$/Desktop/Other/Server/Test/plugins</output-path>
+    <root id="archive" name="MCW-Farm.jar">
+      <element id="module-output" name="MCW-Farm" />
+    </root>
+  </artifact>
+</component>

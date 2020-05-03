@@ -1,0 +1,17 @@
+main: com.league.lugas.farm.Main
+name: MCW-Farm
+version: 1.0.0
+api-version: 1.13
+
+author: LeagueLugas
+description: MCW 서버 전용 농장 플러그인
+
+depend: [Vault]
+softdepend: [TriggerReactor]
+
+commands:
+  farm:
+    desciption: MCW 서버 전용 농장 플러그인 명령어
+    permission: mcw.farm.admin
+  farmleave:
+    desciption: 농장월드를 떠납니다
