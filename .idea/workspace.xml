@@ -23,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bFSyxYPCcf9o2uy38nEg6i4HBV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15180266" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
@@ -68,6 +71,7 @@
       <workItem from="1588385920721" duration="18277000" />
       <workItem from="1588422651265" duration="2000" />
       <workItem from="1588467820887" duration="472000" />
+      <workItem from="1588468749660" duration="101000" />
     </task>
     <servers />
   </component>
@@ -95,10 +99,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588417430479" />
-    <state x="257" y="0" key="SettingsEditor" timestamp="1588300588852">
+    <state x="257" y="0" key="SettingsEditor" timestamp="1588468847022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="257" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588300588852" />
+    <state x="257" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1588468847022" />
     <state x="218" y="11" key="new project wizard" timestamp="1588227982047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
