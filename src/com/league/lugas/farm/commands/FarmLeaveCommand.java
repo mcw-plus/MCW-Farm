@@ -7,7 +7,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
 @CommandName("farmleave")
-public class FarmLeave implements CommandExecutor {
+public class FarmLeaveCommand implements CommandExecutor {
 
     private Main plugin = Main.getPlugin(Main.class);
 

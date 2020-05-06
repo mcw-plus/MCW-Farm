@@ -1,6 +1,7 @@
 package com.league.lugas.farm;
 
 import com.league.lugas.farm.system.CommandSystem;
+import com.league.lugas.farm.system.FarmSystem;
 import com.league.lugas.farm.system.ListenerSystem;
 import com.league.lugas.farm.system.PluginStart;
 import org.bukkit.Bukkit;
@@ -15,6 +16,7 @@ public class Main extends JavaPlugin {
         new PluginStart();
         new CommandSystem(getFile());
         new ListenerSystem(getFile());
+        FarmSystem.getInstance().loadFarms();
         Bukkit.getConsoleSender().sendMessage("§a[" + pluginName + "] 플러그인이 활성화 되었습니다");
     }
 

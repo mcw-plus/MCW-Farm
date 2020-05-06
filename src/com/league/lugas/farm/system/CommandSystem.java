@@ -1,14 +1,10 @@
 package com.league.lugas.farm.system;
 
 import com.league.lugas.farm.Main;
-import com.league.lugas.farm.commands.Farm;
-import com.league.lugas.farm.commands.FarmLeave;
-import com.league.lugas.farm.utils.ClassFinder;
 import org.bukkit.command.CommandExecutor;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.lang.annotation.Annotation;
 import java.util.ArrayList;
